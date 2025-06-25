@@ -20,13 +20,10 @@ This CSS file provides a clean, professional layout for a single-page HTML CV. I
 - Bordered container for a paper-like CV look
 - Easy to print or convert to PDF
 
-## How to Use
+# Single Page CV
 
-1. **Project Structure**
+This is a simple single-page HTML CV styled with CSS.
 
+## Project URL
 
-## How to Use
-
-1. **Download or clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/html-cv.git
+[https://github.com/dxrl3n3/single-page-cv](https://github.com/dxrl3n3/single-page-cv)
